@@ -4,4 +4,4 @@ GIT DEMO
 
 Zadanie_1
 
-- zrobione
+- wlasciwie, to chyba to zadanie mial zrobic ktos inny
