@@ -4,4 +4,4 @@ GIT DEMO
 
 Zadanie_1
 
-- zrobione
+- chyba nie
