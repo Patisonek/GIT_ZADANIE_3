@@ -4,4 +4,5 @@ GIT DEMO
 
 Zadanie_1
 
-- wlasciwie, to chyba to zadanie mial zrobic ktos inny
+
+- był konflikt - nie ma konfliktu
